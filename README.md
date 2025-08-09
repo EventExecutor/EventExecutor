@@ -22,8 +22,8 @@ Sono **EventExecutor**, sviluppo progetti piccoli ma curati e gestisco la commun
 ## 🛠️ Tech & strumenti
 
 * **Linguaggi**: Python e Java
-* **Tool**: Git, GitHub
-* **Interessato a**: automazioni, UI semplici ma gradevoli
+* **Tool**: Git, GitHub, VS-Code, IndelliJ Idea Community
+* **Interessato a**: Tool python semplici e complicati e forse in futuro anche altri plugin minecraft 😉
 
 ## 🚀 Progetti in evidenza
 
