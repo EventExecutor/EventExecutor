@@ -36,6 +36,7 @@ Sono **EventExecutor**, sviluppo progetti piccoli ma curati e gestisco la commun
 
 * Discord: **ashcodee\_** — disponibile per collaborazioni/aiuto.
 * Telegram: [@EventExecutor](https://t.me/EventExecutor)
+* Gruppo Telegram Progetti: [EventProjects](https://t.me/eventexecutorprojects)
 
 ---
 
