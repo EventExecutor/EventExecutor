@@ -1,5 +1,5 @@
 <h1 align="center">👋 Ciao — sono <strong>EventExecutor</strong></h1>
-<p align="center"><em>Developer • Discord Manager • Always building cool stuff</em></p>
+<p align="center"><em>Developer • Discord Owner • Always building cool stuff</em></p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eventexecutor&theme=dark" alt="trophies"/></a>
@@ -17,7 +17,7 @@
 
 ## 🔭 Su di me
 
-Sono **EventExecutor**, sviluppo progetti piccoli ma curati e gestisco la community su **discord.gg/livingpvp**. Mi piace mettere mani su bot, tool e automazioni che semplificano la vita della community.
+Sono **EventExecutor**, sviluppo progetti piccoli ma curati e gestisco la community su **discord.axismc.it**. Mi piace mettere mani su bot, tool e automazioni che semplificano la vita della community.
 
 ## 🛠️ Tech & strumenti
 
