@@ -17,7 +17,7 @@
 
 ## 🔭 Su di me
 
-Sono **EventExecutor**, sviluppo progetti piccoli ma curati e gestisco la community su **discord.axismc.it**. Mi piace mettere mani su bot, tool e automazioni che semplificano la vita della community.
+Sono **EventExecutor**, sviluppo progetti piccoli ma curati. Mi piace mettere mani su bot, tool e automazioni che semplificano la vita della community.
 
 ## 🛠️ Tech & strumenti
 
